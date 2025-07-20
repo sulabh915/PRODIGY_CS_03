@@ -1,2 +1,2 @@
-# PRODIGY_CS_03 
-Internship task 03 : Password Complexity Checker
+# Password Complexity Checker 
+Implement Password Complexity Checker
